@@ -44,9 +44,8 @@
     loadOnInit: true,
     loadErrorTemplate: true,
     responseType: '',
-    overlayTemplate: '<div class="overlay"><i class="fas fa-2x fa-sync-alt fa-spin"></i></div>',
-    errorTemplate: '<span class="text-danger"></span>',
-    onLoadStart: function onLoadStart() {},
+   
+
     onLoadDone: function onLoadDone(response) {
       return response;
     },

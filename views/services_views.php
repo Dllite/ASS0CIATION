@@ -16,7 +16,7 @@
                 <i class="fas fa-shopping-cart"></i>
               </div>
               <a href="#" class="small-box-footer">
-                More info <i class="fas fa-arrow-circle-right"></i>
+                Ajouter <i class="fas fa-arrow-circle-right"></i>
               </a>
             </div>
           </div>
@@ -35,7 +35,7 @@
                 <i class="ion ion-stats-bars"></i>
               </div>
               <a href="#" class="small-box-footer">
-                More info <i class="fas fa-arrow-circle-right"></i>
+              Ajouter <i class="fas fa-arrow-circle-right"></i>
               </a>
             </div>
           </div>
@@ -69,7 +69,7 @@
                 <i class="fas fa-chart-pie"></i>
               </div>
               <a href="#" class="small-box-footer">
-                More info <i class="fas fa-arrow-circle-right"></i>
+              Ajouter <i class="fas fa-arrow-circle-right"></i>
               </a>
             </div>
           </div>
@@ -86,7 +86,7 @@
                 <i class="fas fa-shopping-cart"></i>
               </div>
               <a href="#" class="small-box-footer">
-                More info <i class="fas fa-arrow-circle-right"></i>
+              Ajouter <i class="fas fa-arrow-circle-right"></i>
               </a>
             </div>
           </div>
@@ -103,7 +103,7 @@
                 <i class="fas fa-shopping-cart"></i>
               </div>
               <a href="#" class="small-box-footer">
-                More info <i class="fas fa-arrow-circle-right"></i>
+              Ajouter <i class="fas fa-arrow-circle-right"></i>
               </a>
             </div>
           </div>
