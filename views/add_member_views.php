@@ -59,8 +59,8 @@ require_once 'includes/function.php';
                   <div class="form-group">
                   <label>Profession</label>
                     <div class="input-group date" id="reservationdate" data-target-input="nearest">
-                        <input type="text" class="form-control" data-target="#reservationdate" name="profession" value="<?=get_data($_POST, 'nom')?>"/>
-                        <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                        <input type="text" class="form-control" data-target="#reservationdate" name="profession" value="<?=get_data($_POST, 'profession')?>"/>
+                        <div class="input-group-append">
                             <div class="input-group-text"><i class="fa fa-calendar"></i></div>
                             <?= display_errors($errors, 'profession')?>
                         </div>
